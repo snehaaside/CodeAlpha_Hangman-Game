@@ -1,7 +1,7 @@
 """
 CodeAlpha Python Internship - Task 1: Hangman Game
 A simple text-based Hangman game using random, while loop, if-else,
-strings and lists.
+string and lists.
 """
 
 import random
